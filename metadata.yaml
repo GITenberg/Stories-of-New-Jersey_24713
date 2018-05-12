@@ -1,0 +1,31 @@
+_repo: Stories-of-New-Jersey_24713
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24713-h/images/gtcover.jpg
+creator:
+  author:
+    agent_name: Stockton, Frank Richard
+    aliases:
+    - Stockton, Frank R. (Frank Richard)
+    - Stockton, Francis Richard
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '221'
+    url: http://www.gutenberg.org/2009/agents/221
+    wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2008-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'New Jersey -- History'
+title: Stories of New Jersey
+url: http://www.gutenberg.org/ebooks/24713
